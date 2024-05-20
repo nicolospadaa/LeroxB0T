@@ -1,5 +1,5 @@
 { 
-"name": "Bixby-Bot-MD",
+"name": "LeroxB0T",
 "version": "2.2",
 "description": "Nada",
 "main": "index.js",
@@ -16,16 +16,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/MoonContentCreator/BixbyBot-Md",
+"homepage": "https://github.com/nicolospadaa/LeroxB0T",
 "author": {
-"name": "MoonContentCreator"
+"name": "nicolospadaa"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/MoonContentCreator/BixbyBot-Md.git"
+"url": "git+https://github.com/nicolospadaa/LeroxB0T.git"
 },
 "bugs": {
-"url": "https://github.com/MoonContentCreator/BixbyBot-Md/issues"
+"url": "https://github.com/nicolospadaa/LeroxB0T/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
